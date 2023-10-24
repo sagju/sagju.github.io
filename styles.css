@@ -148,6 +148,11 @@
     margin: 15px 0;
 }
 
+.coauthorText {
+    font-style: italic;
+    font-size: 17px;
+}
+
 .presentationText {
     font-style: italic;
     font-size: 17px;
